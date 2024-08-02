@@ -1,1 +1,1 @@
-Python difflib küütphanesi kullanarak chatBot 
+Python difflib kütphanesi kullanarak chatBot 
